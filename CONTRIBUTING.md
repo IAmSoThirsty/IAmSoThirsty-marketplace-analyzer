@@ -1,4 +1,4 @@
-# Contributing to Marketplace Analyzer
+# Contributing to Thirsty's Value Finder
 
 Thank you for your interest in contributing! This document provides guidelines and instructions for contributing.
 

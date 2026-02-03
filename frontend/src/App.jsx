@@ -13,7 +13,7 @@ function App() {
               <div className="flex">
                 <div className="flex-shrink-0 flex items-center">
                   <h1 className="text-2xl font-bold text-blue-600">
-                    Marketplace Analyzer
+                    Thirsty's Value Finder
                   </h1>
                 </div>
               </div>

@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get the Marketplace Analyzer running in 5 minutes!
+Get Thirsty's Value Finder running in 5 minutes!
 
 ## Prerequisites
 

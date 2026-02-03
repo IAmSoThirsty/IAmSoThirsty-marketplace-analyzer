@@ -107,7 +107,7 @@ async def lifespan(app: FastAPI):
 
 # Create FastAPI app
 app = FastAPI(
-    title="Marketplace Analyzer",
+    title="Thirsty's Value Finder",
     description="Production-grade image analysis and marketplace value resolution service",
     version="1.0.0",
     lifespan=lifespan
@@ -133,7 +133,7 @@ app.include_router(marketplace.router)
 async def root():
     """Root endpoint."""
     return {
-        "message": "Marketplace Analyzer API",
+        "message": "Thirsty's Value Finder API",
         "version": "1.0.0",
         "status": "running"
     }
