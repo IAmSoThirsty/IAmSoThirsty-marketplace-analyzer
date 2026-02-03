@@ -1,6 +1,6 @@
 # Project Summary
 
-## Marketplace Analyzer - Production-Grade Monolithic Application
+## Thirsty's Value Finder - Production-Grade Monolithic Application
 
 ### Overview
 

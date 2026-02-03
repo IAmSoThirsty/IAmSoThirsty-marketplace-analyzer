@@ -1,4 +1,4 @@
-# Marketplace Analyzer
+# Thirsty's Value Finder
 
 A production-grade, monolithic web application for image analysis and marketplace value resolution. Built with FastAPI, React, PostgreSQL, Celery, and modern ML models (YOLOv8/Vision Transformer).
 

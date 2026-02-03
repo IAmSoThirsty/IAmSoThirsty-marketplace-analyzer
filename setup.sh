@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Marketplace Analyzer Setup Script
+# Thirsty's Value Finder Setup Script
 
 set -e
 
-echo "🚀 Marketplace Analyzer Setup"
+echo "🚀 Thirsty's Value Finder Setup"
 echo "=============================="
 echo ""
 

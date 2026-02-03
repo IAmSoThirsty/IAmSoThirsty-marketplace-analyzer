@@ -192,4 +192,4 @@ For security concerns, please contact the maintainers.
 
 ---
 
-Thank you for helping keep Marketplace Analyzer secure!
+Thank you for helping keep Thirsty's Value Finder secure!
