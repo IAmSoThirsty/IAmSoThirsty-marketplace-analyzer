@@ -1,0 +1,5 @@
+# Models directory
+# Place your YOLO or ViT model files here
+# Example: yolov8n.pt
+
+# Models will be downloaded automatically on first run if not present
