@@ -9,14 +9,14 @@ A complete, production-ready web application for analyzing images using AI and f
 ### Technology Stack
 
 #### Backend
-- **FastAPI** 0.109.0 - Modern async web framework
+- **FastAPI** 0.109.1 - Modern async web framework (security patched)
 - **Celery** 5.3.6 - Distributed task queue
 - **PostgreSQL** 16 - Relational database
 - **SQLAlchemy** 2.0.25 - ORM with async support
 - **RabbitMQ** 3.12 - Message broker
 - **Redis** 7 - Result backend
 - **MinIO/S3** - Object storage
-- **YOLOv8** / **Vision Transformer** - ML models
+- **YOLOv8** / **Vision Transformer** - ML models (security patched)
 
 #### Frontend
 - **React** 18.2.0 - UI library
